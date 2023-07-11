@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IcePeak69
+- 👀 I’m interested in Luau
+- 🌱 I’m currently learning Python
+- 📫 How to reach me discord @glock25
